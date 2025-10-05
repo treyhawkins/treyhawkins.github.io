@@ -1,7 +1,7 @@
 title: "Self-Directed Learning Portfolio"
 description: "Self-Directed Learning Portfolio: Projects, Certificates, and Academic Work"
-baseurl:""
-url:"https://treyhawkins.github.io"
+baseurl: ""
+url: "https://treyhawkins.github.io"
 theme: minima
 
 author:
