@@ -6,8 +6,7 @@ permalink: /projects/
 
 Here are some of my projects:
 
-- Nothing to see here yet!
-##Project 1:
+- Test Project 1:
 - Description: Description 1
 - GitHub: [link](https://github.com/treyhawkins/project1)
 - Screenshot: ![screenshot](assets/images/project1.png)
