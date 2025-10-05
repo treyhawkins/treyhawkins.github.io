@@ -1,0 +1,9 @@
+title: "Self-Directed Learning Portfolio"
+description: "Self-Directed Learning Portfolio: Projects, Certificates, and Academic Work"
+baseurl:""
+url:"https://treyhawkins.github.io"
+theme: minima
+
+author:
+  name: "Trey Hawkins"
+  bio: "Self-directed learner building mastery in Math, Science, Computer Science, and Foreign Languages."
